@@ -4,7 +4,7 @@ padding: 0;
 }
 
 body {
-margin: 0 auto;
+margin: 0px auto;
 }
 
 /* Header */
@@ -191,7 +191,7 @@ width: 280px;
 
 .news img {
 height: 240px;
-width: 185px;
+width: 180px;
 }
 
 .news {
@@ -226,7 +226,7 @@ footer {
 display: inline-block;
 background-color: turquoise;
 padding: 3rem;
-width: 100%;
+width: 93%;
 margin-top: 7rem;
 text-align: center;
 }
